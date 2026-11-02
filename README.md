@@ -16,6 +16,9 @@
 Конец
 
 # #Блок-схема
+<img width="122" height="762" alt="лаба 7" src="https://github.com/user-attachments/assets/f6d7a101-0b89-4160-bbb6-50094abbcdae" />
+
+
 Start((Начало)) --> Init[/Ввод month, year/]
 Init --> Check[Проверка корректности месяца]
 Check --> Leap[Проверка на високосный год]
